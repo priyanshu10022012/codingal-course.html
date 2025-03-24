@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <body>
+
+        <h1>My first heading</h1>
+        <p>My first paragraph</p>
+
+        <img src="national_flag.jpg" width="500" height="600"
+        <a href="https://www.w3schools.com">visit w3schools</a>
+
+    </body>
+</html>
